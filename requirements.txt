@@ -5,3 +5,4 @@ beautifulsoup4==4.15.0
 folium==0.20.0
 streamlit-folium==0.27.2
 lxml==6.1.1
+matplotlib==3.10.3
