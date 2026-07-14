@@ -1,8 +1,9 @@
-streamlit==1.59.2
-pandas==3.0.3
-requests==2.34.2
-beautifulsoup4==4.15.0
-folium==0.20.0
-streamlit-folium==0.27.2
-lxml==6.1.1
-matplotlib==3.10.3
+streamlit
+pandas
+requests
+beautifulsoup4
+folium
+streamlit-folium
+lxml
+matplotlib
+seaborn
